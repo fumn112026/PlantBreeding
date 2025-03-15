@@ -1,22 +1,6 @@
 # PlantBreeding
 植物の水やり管理アプリ
 
-# 要件
-- 水やり管理機能
-  - 植物の登録機能
-  - 植物の削除機能
-  - 水やり間隔の登録機能
-  - 水やり間隔の編集機能
-  - 水やり日までのカウントダウン機能
-  - 最終水やり日の表示機能
-- ユーザー認証機能
-
-# 使用技術
-- JavaScript
-  - React
-- Firebase
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
